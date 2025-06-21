@@ -11,10 +11,10 @@ const settings = {
 const greeting = {
   title: "Hello 👋.",
   title2: "Chaitanya",
-  logo_name: "harry.k()",
+  logo_name: "Chaitanya",
   nickname: "harry / picleric",
   full_name: "Chaitanya Konduru",
-  subTitle: "Backend Developer, Open Source Enthusiast 🔥. Always learning.",
+  subTitle: "I am mental",
   resumeLink:
     "https://drive.google.com/file/d/1ThjCisD-FnEPQcYAYU2XBsulYWcyCGF2/view?usp=drivesdk",
   mail: "mailto:hkanani191@gmail.com",
